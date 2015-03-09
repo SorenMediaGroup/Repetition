@@ -1,4 +1,4 @@
-# Varying Vagrant Vagrants
+# Repetition: Soren Media Group fork of Varying Vagrant Vagrants
 
 Varying Vagrant Vagrants is an open source [Vagrant](http://vagrantup.com) configuration focused on [WordPress](http://wordpress.org) development. VVV is [MIT Licensed](https://github.com/varying-vagrant-vagrants/vvv/blob/master/LICENSE).
 
